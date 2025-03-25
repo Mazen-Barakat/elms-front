@@ -10,7 +10,7 @@
 
 **ELMS (E-Learning Management System)** is a modern virtual classroom platform designed to facilitate **seamless online learning, collaboration, and communication** between students, teachers, and administrators. ELMS provides **live classes, document sharing, messaging, and course management**—all in one platform.
 
-📂 **Backend Repository**: _[[Insert backend repo link here](https://github.com/Mazen-Barakat/elms-backend)]_  
+📂 [Backend Repository](https://github.com/Mazen-Barakat/elms-backend) 
 
 ---
 
